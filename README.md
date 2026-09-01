@@ -53,15 +53,10 @@ Artificial Intelligence        ██████████░░░░░░�
 
 <!-- Replace these with your real contact links -->
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mariam-tarek-a2261b321/)">
+<a href="https://www.linkedin.com/in/mariam-tarek-a2261b321/">
 <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:mariam.tarek8122005@gmail.com">
-<img src="https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
 
 
 <p align="center">
